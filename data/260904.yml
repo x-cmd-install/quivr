@@ -7,7 +7,7 @@ about:
   head: 947a785
   archived: false
   latestVersion: core-0.0.33
-  collectedAt: 2026-09-04T19:26:29Z
+  collectedAt: 2026-09-04T21:10:11Z
 timeline:
   created: 2023-05-12
   lastCommit: 2025-06-19
@@ -81,5 +81,68 @@ total:
   openIssue: 10
   commit: 2295
 ---
+path: /home/runner/.x-repo/github.com/QuivrHQ/quivr
+collectedAt: 2026-09-04T21:10:14Z
+loc:
+  Python:
+    code: 6262
+    comments: 231
+    blanks: 1255
+    files: 77
+  JavaScript:
+    code: 282
+    comments: 17
+    blanks: 60
+    files: 1
+  Yaml:
+    code: 219
+    comments: 45
+    blanks: 45
+    files: 6
+  Toml:
+    code: 179
+    comments: 2
+    blanks: 19
+    files: 6
+  Css:
+    code: 166
+    comments: 38
+    blanks: 30
+    files: 2
+  Ini:
+    code: 60
+    comments: 0
+    blanks: 6
+    files: 1
+  Sh:
+    code: 47
+    comments: 10
+    blanks: 14
+    files: 2
+  Html:
+    code: 36
+    comments: 0
+    blanks: 1
+    files: 1
+  Json:
+    code: 19
+    comments: 0
+    blanks: 0
+    files: 2
+  Svg:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 3
+  Markdown:
+    code: 0
+    comments: 2884
+    blanks: 1721
+    files: 38
+total:
+  code: 7592
+  comments: 3280
+  blanks: 3261
+  files: 139
 ---
 
