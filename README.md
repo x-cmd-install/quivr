@@ -7,7 +7,7 @@ Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product ra
 - **Latest release**: `core-0.0.33` (2025-02-04)
 - **Last commit**: 2025-06-19
 - **License**: NOASSERTION
-- **Stars**: 39498 · **Forks**: 3728 · **Open issues**: 1549 · **Contributors**: 115
+- **Stars**: 39500 · **Forks**: 3730 · **Open issues**: 1549 · **Contributors**: 115
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/quivr> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:23:35Z._
+_Last regenerated: 2026-09-09T18:20:37Z._
