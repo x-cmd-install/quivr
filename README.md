@@ -22,11 +22,10 @@ x install quivr
 
 - **Latest**: `core-0.0.33` (2025-02-04)
 - **Last commit**: 2025-06-19
-- **Published**: 2025-02-04T10:18:50Z
 
 ## Popularity
 
-- **Stars**: 39,501 · **Forks**: 3,729 · **Open issues**: 1,550 · **Contributors**: 115
+- **Stars**: 39,505 · **Forks**: 3,729 · **Open issues**: 1,550 · **Contributors**: 115
 
 ## Totals (cumulative)
 
@@ -57,8 +56,8 @@ Total: **7,273** lines of code across **92** files in the top 5 languages.
 Install metadata for quivr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `quivr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/quivr.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/quivr.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:20:51Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:50:19Z._

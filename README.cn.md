@@ -4,7 +4,7 @@
 
 Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
 
-![quivr](https://repo.x-cmd.io/quivr.svg)
+![quivr](https://repo.x-cmd.io/quivr.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install quivr
 
 - **最新版本**: `core-0.0.33` (2025-02-04)
 - **最近提交**: 2025-06-19
-- **发布时间**: 2025-02-04T10:18:50Z
 
 ## 流行度
 
-- **Star**: 39,501 · **Fork**: 3,729 · **开放 issue**: 1,550 · **贡献者**: 115
+- **Star**: 39,505 · **Fork**: 3,729 · **开放 issue**: 1,550 · **贡献者**: 115
 
 ## 累计统计
 
@@ -61,4 +60,4 @@ quivr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:20:51Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:50:19Z._
