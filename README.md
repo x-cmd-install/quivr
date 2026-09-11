@@ -12,6 +12,18 @@ Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product ra
 x install quivr
 ```
 
+## Code insight
+
+Total: **7,273** lines of code across **92** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 6,262 | 231 | 1,255 | 77 |
+| JavaScript | 282 | 17 | 60 | 1 |
+| Yaml | 219 | 45 | 45 | 6 |
+| Toml | 179 | 2 | 19 | 6 |
+| Css | 166 | 38 | 30 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/QuivrHQ/quivr>
@@ -25,7 +37,7 @@ x install quivr
 
 ## Popularity
 
-- **Stars**: 39,505 · **Forks**: 3,729 · **Open issues**: 1,550 · **Contributors**: 115
+- **Stars**: 39,506 · **Forks**: 3,729 · **Open issues**: 1,550 · **Contributors**: 115
 
 ## Totals (cumulative)
 
@@ -35,21 +47,12 @@ x install quivr
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **7,273** lines of code across **92** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 6,262 | 231 | 1,255 | 77 |
-| JavaScript | 282 | 17 | 60 | 1 |
-| Yaml | 219 | 45 | 45 | 6 |
-| Toml | 179 | 2 | 19 | 6 |
-| Css | 166 | 38 | 30 | 2 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 24 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for quivr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:50:19Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:21:42Z._
