@@ -4,7 +4,7 @@
 
 Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
 
-[![x-cmd/install — quivr Code Quality Monitoring Repo Card](https://repo.x-cmd.io/quivr.svg)](https://x-cmd.com/install/quivr)
+[![x-cmd/install — quivr Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/quivr.svg)](https://x-cmd.com/install/quivr)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **7,273** lines of code across **92** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 39,549 · **Forks**: 3,731 · **Open issues**: 1,549 · **Contributors**: 115
+- **Stars**: 39,551 · **Forks**: 3,731 · **Open issues**: 1,549 · **Contributors**: 115
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **7,273** lines of code across **92** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 20 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 20 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for quivr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:34:38Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:31:31Z._
