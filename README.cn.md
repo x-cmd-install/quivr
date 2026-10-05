@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
+An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 
 [![x-cmd/install — quivr Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/quivr.svg?lang=zh)](https://x-cmd.com/install/quivr)
 
@@ -14,45 +14,45 @@ x install quivr
 
 ## 代码洞察
 
-合计: **7,273** 行代码（覆盖前 5 种语言、共 **92** 个文件）。
+合计: **264,403** 行代码（覆盖前 5 种语言、共 **1381** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 6,262 | 231 | 1,255 | 77 |
-| JavaScript | 282 | 17 | 60 | 1 |
-| Yaml | 219 | 45 | 45 | 6 |
-| Toml | 179 | 2 | 19 | 6 |
-| Css | 166 | 38 | 30 | 2 |
+| Go | 122,101 | 15,283 | 12,546 | 590 |
+| Json | 55,397 | 0 | 0 | 444 |
+| Python | 35,846 | 918 | 4,493 | 219 |
+| Yaml | 19,097 | 171 | 8 | 90 |
+| Tsx | 10,185 | 436 | 309 | 38 |
 
 ## 源代码
 
 - **上游仓库**: <https://github.com/QuivrHQ/quivr>
-- **官网**: <https://core.quivr.com>
-- **许可证**: NOASSERTION
+- **官网**: <https://docs.quivr.thevibecompany.co>
+- **许可证**: MIT
 
 ## 发布
 
 - **最新版本**: `core-0.0.33` (2025-02-04)
-- **最近提交**: 2025-06-19
+- **最近提交**: 2026-10-05
 
 ## 流行度
 
-- **Star**: 39,579 · **Fork**: 3,739 · **开放 issue**: 1,550 · **贡献者**: 115
+- **Star**: 39,579 · **Fork**: 3,740 · **开放 issue**: 1,550 · **贡献者**: 116
 
 ## 累计统计
 
-- **发布数**: 354 · **已合并 PR**: 1824 · **开放 PR**: 25 · **已关闭 issue**: 1541 · **开放 issue**: 9 · **提交数**: 2295
+- **发布数**: 354 · **已合并 PR**: 1833 · **开放 PR**: 0 · **已关闭 issue**: 1541 · **开放 issue**: 9 · **提交数**: 2619
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-14 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-15 | 18 | 0 | 0 | 0 | 0 | 0 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ quivr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261004.yml` · 2026-10-04T05:34:51Z._
+_数据快照: `data/card/261005.yml` · 2026-10-05T05:18:42Z._
