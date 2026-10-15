@@ -32,27 +32,27 @@ Total: **364,225** lines of code across **1862** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.0-alpha.6` (2025-02-04)
-- **Last commit**: 2026-10-13
+- **Latest**: `v2.0.0-alpha.7` (2025-02-04)
+- **Last commit**: 2026-10-14
 
 ## Popularity
 
-- **Stars**: 39,586 · **Forks**: 3,737 · **Open issues**: 1,550 · **Contributors**: 116
+- **Stars**: 39,589 · **Forks**: 3,739 · **Open issues**: 1,550 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 360 · **Merged PRs**: 2044 · **Open PRs**: 8 · **Closed issues**: 1540 · **Open issues**: 10 · **Commits**: 2862
+- **Releases**: 361 · **Merged PRs**: 2045 · **Open PRs**: 7 · **Closed issues**: 1540 · **Open issues**: 10 · **Commits**: 2863
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-16 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-17 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-19 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-24 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-15 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-16 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-17 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-18 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-20 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-25 | 18 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for quivr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:37:04Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:19:42Z._
