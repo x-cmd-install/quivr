@@ -14,12 +14,12 @@ x install quivr
 
 ## Code insight
 
-Total: **364,225** lines of code across **1862** files in the top 5 languages.
+Total: **364,232** lines of code across **1862** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 178,746 | 19,068 | 15,878 | 880 |
-| Json | 63,677 | 0 | 3 | 509 |
+| Json | 63,684 | 0 | 3 | 509 |
 | Python | 54,142 | 1,502 | 6,204 | 311 |
 | Yaml | 22,751 | 183 | 9 | 114 |
 | Tsx | 13,115 | 814 | 397 | 48 |
@@ -33,7 +33,7 @@ Total: **364,225** lines of code across **1862** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.0-alpha.7` (2025-02-04)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **364,225** lines of code across **1862** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 361 · **Merged PRs**: 2045 · **Open PRs**: 7 · **Closed issues**: 1540 · **Open issues**: 10 · **Commits**: 2863
+- **Releases**: 361 · **Merged PRs**: 2046 · **Open PRs**: 8 · **Closed issues**: 1540 · **Open issues**: 10 · **Commits**: 2864
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-16 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-17 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-18 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-20 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-25 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-16 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-17 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-18 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-19 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-21 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-26 | 18 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for quivr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:19:42Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:15:24Z._
