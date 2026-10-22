@@ -37,22 +37,22 @@ Total: **364,232** lines of code across **1862** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 39,603 · **Forks**: 3,733 · **Open issues**: 1,550 · **Contributors**: 116
+- **Stars**: 39,603 · **Forks**: 3,732 · **Open issues**: 1,550 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 361 · **Merged PRs**: 2046 · **Open PRs**: 8 · **Closed issues**: 1540 · **Open issues**: 10 · **Commits**: 2864
+- **Releases**: 361 · **Merged PRs**: 2046 · **Open PRs**: 10 · **Closed issues**: 1540 · **Open issues**: 10 · **Commits**: 2864
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-31 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-22 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-23 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-24 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-25 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-27 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-01 | 17 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for quivr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:24:51Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:23:53Z._
