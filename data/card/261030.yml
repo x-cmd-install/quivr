@@ -1,0 +1,196 @@
+about:
+  description: "An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules."
+  license: MIT
+  homepage: https://docs.quivr.thevibecompany.co
+  head: e91e3d6
+  archived: false
+  latestVersion: "v2.0.0"
+  latestRelease: "v2.0.0"
+  latestPrerelease: "v2.0.0-alpha.7"
+  collectedAt: 2026-10-30T05:29:31Z
+timeline:
+  created: 2023-05-12
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-29
+  lastRelease: 2026-10-29
+  lastPrerelease: 2026-10-14
+popularity:
+  star: 39617
+  watcher: 278
+  fork: 3732
+  release: 362
+  contributor: 116
+  pullRequest: 2333
+  issue: 1550
+language:
+  Go: 7088240
+  Python: 3334998
+  TypeScript: 940744
+  MDX: 757979
+  JavaScript: 398299
+  CSS: 215443
+  Shell: 50014
+  PLpgSQL: 21856
+  Dockerfile: 20602
+  Go Template: 17986
+  Makefile: 6045
+  HTML: 519
+totalBytes: 12852725
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-08-31
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-01
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-05-03
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-11-04
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-11-09
+    release: 18
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 362
+  mergedPR: 2061
+  openPR: 1
+  closedIssue: 1540
+  openIssue: 10
+  commit: 2879
+---
+path: /home/runner/.x-repo/github.com/QuivrHQ/quivr
+collectedAt: 2026-10-30T05:29:40Z
+loc:
+  Go:
+    code: 179282
+    comments: 19138
+    blanks: 15895
+    files: 881
+  Json:
+    code: 63702
+    comments: 0
+    blanks: 3
+    files: 509
+  Python:
+    code: 54219
+    comments: 1507
+    blanks: 6215
+    files: 311
+  Yaml:
+    code: 22752
+    comments: 183
+    blanks: 9
+    files: 114
+  Tsx:
+    code: 13115
+    comments: 814
+    blanks: 397
+    files: 48
+  Css:
+    code: 10082
+    comments: 265
+    blanks: 88
+    files: 7
+  TypeScript:
+    code: 9217
+    comments: 1134
+    blanks: 692
+    files: 63
+  JavaScript:
+    code: 8608
+    comments: 936
+    blanks: 299
+    files: 28
+  Sql:
+    code: 1715
+    comments: 472
+    blanks: 54
+    files: 98
+  Sh:
+    code: 645
+    comments: 96
+    blanks: 36
+    files: 12
+  Xml:
+    code: 628
+    comments: 0
+    blanks: 0
+    files: 8
+  Dockerfile:
+    code: 336
+    comments: 40
+    blanks: 26
+    files: 11
+  Toml:
+    code: 332
+    comments: 64
+    blanks: 47
+    files: 13
+  Svg:
+    code: 142
+    comments: 0
+    blanks: 0
+    files: 3
+  Makefile:
+    code: 83
+    comments: 31
+    blanks: 2
+    files: 1
+  Html:
+    code: 15
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 36157
+    blanks: 5917
+    files: 133
+  Text:
+    code: 0
+    comments: 499
+    blanks: 19
+    files: 23
+total:
+  code: 371214
+  comments: 61367
+  blanks: 29731
+  files: 2264
+---
+
+---
