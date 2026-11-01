@@ -27,7 +27,7 @@ x install quivr
 ## 源代码
 
 - **上游仓库**: <https://github.com/QuivrHQ/quivr>
-- **官网**: <https://docs.quivr.thevibecompany.co>
+- **官网**: <https://www.thevibecompany.co/en/portfolio/quivr>
 - **许可证**: MIT
 
 ## 发布
@@ -38,7 +38,7 @@ x install quivr
 
 ## 流行度
 
-- **Star**: 39,620 · **Fork**: 3,732 · **开放 issue**: 1,550 · **贡献者**: 116
+- **Star**: 39,623 · **Fork**: 3,730 · **开放 issue**: 1,550 · **贡献者**: 116
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install quivr
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-02 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-04 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-05 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-10 | 20 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-02 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-02 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-03 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-05 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-06 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-11 | 20 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -91,4 +91,4 @@ quivr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261031.yml` · 2026-10-31T05:16:17Z._
+_数据快照: `data/card/261101.yml` · 2026-11-01T05:44:20Z._
