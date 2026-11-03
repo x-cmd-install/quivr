@@ -14,13 +14,13 @@ x install quivr
 
 ## Code insight
 
-Total: **364,873** lines of code across **1863** files in the top 5 languages.
+Total: **365,088** lines of code across **1864** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 179,282 | 19,138 | 15,895 | 881 |
-| Json | 63,702 | 0 | 3 | 509 |
-| Python | 54,219 | 1,507 | 6,215 | 311 |
+| Json | 63,703 | 0 | 3 | 509 |
+| Python | 54,259 | 1,508 | 6,220 | 312 |
 | Yaml | 22,752 | 183 | 9 | 114 |
 | Tsx | 13,115 | 814 | 397 | 48 |
 
@@ -33,27 +33,27 @@ Total: **364,873** lines of code across **1863** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.2` (2026-10-30)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-02
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 39,624 · **Forks**: 3,731 · **Open issues**: 1,550 · **Contributors**: 116
+- **Stars**: 39,625 · **Forks**: 3,731 · **Open issues**: 1,550 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 364 · **Merged PRs**: 2066 · **Open PRs**: 1 · **Closed issues**: 1540 · **Open issues**: 10 · **Commits**: 2884
+- **Releases**: 364 · **Merged PRs**: 2068 · **Open PRs**: 4 · **Closed issues**: 1540 · **Open issues**: 10 · **Commits**: 2886
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-03 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-04 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-06 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-07 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-12 | 20 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-04 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-04 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-05 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-07 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-08 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-13 | 20 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for quivr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:42:57Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:23:57Z._
