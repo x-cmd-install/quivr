@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2258,
       "digest": "sha256:0f78d99c9f82c97d5b9753854b12a2eb56863ac1dd701e40e47c19f8bf59111a",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-10-30T14:58:54Z",
       "updated_at": "2026-10-30T14:58:54Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.2/images.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3329513,
       "digest": "sha256:b4530c82871bbb9dd3253763dc9c71a8bd4e7339a3625acb3444e36a8dac320a",
-      "download_count": 31,
+      "download_count": 35,
       "created_at": "2026-10-30T14:58:50Z",
       "updated_at": "2026-10-30T14:58:50Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.2/quivr-core.spdx.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3390450,
       "digest": "sha256:3fa10dc30a332be384fae5b6172cdb4fb728ce04d1396a8a5ba5a3a0ae726060",
-      "download_count": 29,
+      "download_count": 34,
       "created_at": "2026-10-30T14:58:50Z",
       "updated_at": "2026-10-30T14:58:50Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.2/quivr-cpu-embeddings.spdx.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2762705,
       "digest": "sha256:b86be87914a7b9c10ada5a54f909b6d32c462af6452748aab6abda1950d95299",
-      "download_count": 29,
+      "download_count": 33,
       "created_at": "2026-10-30T14:58:50Z",
       "updated_at": "2026-10-30T14:58:50Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.2/quivr-plugin-alerts.spdx.json"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2705487,
       "digest": "sha256:d2ee0d026f9158300474ed8eb739e7063e94ed67da28a8082ce42ca5ca6be6fe",
-      "download_count": 29,
+      "download_count": 33,
       "created_at": "2026-10-30T14:58:50Z",
       "updated_at": "2026-10-30T14:58:51Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.2/quivr-plugin-core.ingest.spdx.json"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2705572,
       "digest": "sha256:8ac90a30dcdaf8f6eead426d7e8119e302b5fb472d36eebca14d3e9713522fa3",
-      "download_count": 27,
+      "download_count": 31,
       "created_at": "2026-10-30T14:58:51Z",
       "updated_at": "2026-10-30T14:58:52Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.2/quivr-plugin-hosted.embed.spdx.json"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2847085,
       "digest": "sha256:a38558e3e56a239dfeaa76c7abae7b98251297c1c7805234dd52ec62ee8372d1",
-      "download_count": 27,
+      "download_count": 31,
       "created_at": "2026-10-30T14:58:51Z",
       "updated_at": "2026-10-30T14:58:52Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.2/quivr-plugin-jev.rerank.spdx.json"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 762229,
       "digest": "sha256:22eb5afae56ddea3b058fe40694a31b625e077326183f08646184140a774e678",
-      "download_count": 28,
+      "download_count": 32,
       "created_at": "2026-10-30T14:58:52Z",
       "updated_at": "2026-10-30T14:58:52Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.2/quivr-postgres.spdx.json"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 538254,
       "digest": "sha256:d53364c4b9c8ce895b5725dfde29ba9ebab4a78ab68ea03c9798ba35aa981079",
-      "download_count": 27,
+      "download_count": 31,
       "created_at": "2026-10-30T14:58:52Z",
       "updated_at": "2026-10-30T14:58:53Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.2/quivr-seaweed.spdx.json"
