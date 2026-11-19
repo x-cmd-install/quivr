@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 43082,
       "digest": "sha256:6592530493a983f6d8504d081429205c097a9d7360b657829e94648907e27f29",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-16T15:52:15Z",
       "updated_at": "2026-11-16T15:52:15Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.3/CHANGELOG.md"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2258,
       "digest": "sha256:3105cddcacc8fc9628b37f2f8090c112b73c0c7c83a0489dfe92196221c14b03",
-      "download_count": 5,
+      "download_count": 11,
       "created_at": "2026-11-16T15:52:13Z",
       "updated_at": "2026-11-16T15:52:13Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.3/images.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14910,
       "digest": "sha256:c53c6855676d105ba0f84bb32c3d27e8fd010b595065979bf1cdec2bebf6d3d1",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-16T15:52:04Z",
       "updated_at": "2026-11-16T15:52:05Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.3/quivr-compose-2.0.3.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3329535,
       "digest": "sha256:adf668b4c4e05ab20a82c5be749c4c8caf0ebffaf22d2561d9f89e9e54453059",
-      "download_count": 2,
+      "download_count": 7,
       "created_at": "2026-11-16T15:52:09Z",
       "updated_at": "2026-11-16T15:52:10Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.3/quivr-core.spdx.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3390450,
       "digest": "sha256:560cd55601d630b3e99a22cc0b59c5b4055e6af29eaee4c872df059ba603e861",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T15:52:09Z",
       "updated_at": "2026-11-16T15:52:10Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.3/quivr-cpu-embeddings.spdx.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2762705,
       "digest": "sha256:7e8f50f120e8807a500901fe7b38dfaef4d12bc2970b81f02992803d1d609c8b",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T15:52:09Z",
       "updated_at": "2026-11-16T15:52:10Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.3/quivr-plugin-alerts.spdx.json"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 27495,
       "digest": "sha256:d810b81f645cb9c2374c36a03213b7458f78b6295abd5d0df794b250533d5222",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T15:52:09Z",
       "updated_at": "2026-11-16T15:52:09Z",
       "browser_download_url": "https://github.com/The-Vibe-Company/quivr/releases/download/v2.0.3/quivr-plugin-connector.m365_mail.spdx.json"
